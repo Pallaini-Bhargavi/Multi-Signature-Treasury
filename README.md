@@ -1,9 +1,14 @@
-##🚀 Multi-Signature Treasury Smart Contract (Sui Blockchain)
+🚀 Multi-Signature Treasury Smart Contract (Sui Blockchain)
 
 Team ID: p_bhargavi
+
 Theme: Multi-Signature Treasury
+
 Package ID: 0x20e3e402d0a714f636c25efd16080ea7718ee3992333b3e8d8080c2a64d2d014
+
 Treasury Object ID: 0x339df9266f2140261a26a17144bb4b1ba544790e3e3860120473f839ac021abe
+
+
 ✅ Project Summary
 
 This project implements a Multi-Signature Treasury System on the Sui Blockchain using Move language.
@@ -67,8 +72,10 @@ sui client call --package <PACKAGE_ID> --module treasury --function execute_paym
 ```
 
 🎥 Video Demo
-
-YouTube Link: 
+YouTube Link:
+```
+https://youtu.be/nSsjAHsI0fg
+```
 
 🖼 Screenshots
 
@@ -76,5 +83,5 @@ YouTube Link:
 
 📑 Presentation
 ```
-https://drive.google.com/drive/folders/1r7XH9A0nf-KOtVzxBXMpMzkstLtKFWhf?usp=drive_link
+https://drive.google.com/drive/folders/1r7XH9A0nf-KOtVzxBXMpMzkstLtKFWhf?usp=sharing
 ```
