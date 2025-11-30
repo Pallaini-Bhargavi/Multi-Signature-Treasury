@@ -1,0 +1,8 @@
+[package]
+name = "treasury"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+treasury_addr = "0x0"
