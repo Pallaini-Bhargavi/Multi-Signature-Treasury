@@ -74,7 +74,7 @@ sui client call --package <PACKAGE_ID> --module treasury --function execute_paym
 🎥 Video Demo
 YouTube Link:
 ```
-https://youtu.be/nSsjAHsI0fg
+https://youtu.be/s7x9o9WwpeI
 ```
 
 ### 📸 Screenshots
@@ -98,5 +98,5 @@ https://youtu.be/nSsjAHsI0fg
 
 📑 Presentation
 ```
-https://drive.google.com/drive/folders/1r7XH9A0nf-KOtVzxBXMpMzkstLtKFWhf?usp=sharing
+https://drive.google.com/drive/folders/1r7XH9A0nf-KOtVzxBXMpMzkstLtKFWhf?usp=drive_link
 ```
